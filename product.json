@@ -5,7 +5,7 @@
     "fields": {
       "name": "Сайт",
       "description": "Сайты на любой вкус",
-      "image": "",
+      "image": "catalog/images/сайт.jpg",
       "category": 1,
       "price": "50000.00",
       "created_at": "2024-05-23",
@@ -18,7 +18,7 @@
     "fields": {
       "name": "Бот",
       "description": "Боты под Ваши нужды",
-      "image": "",
+      "image": "catalog/images/бот.jpg",
       "category": 2,
       "price": "55000.00",
       "created_at": "2024-05-23",
@@ -31,7 +31,7 @@
     "fields": {
       "name": "Программа",
       "description": "Программы любой сложности",
-      "image": "",
+      "image": "catalog/images/программа.jpg",
       "category": 3,
       "price": "150000.00",
       "created_at": "2024-05-23",
@@ -44,7 +44,7 @@
     "fields": {
       "name": "Парсер",
       "description": "Парсеры для автоматического сбора данных",
-      "image": "",
+      "image": "catalog/images/парсер.jpg",
       "category": 4,
       "price": "100000.00",
       "created_at": "2024-05-23",
@@ -57,7 +57,7 @@
     "fields": {
       "name": "База данных",
       "description": "Базы данных для хранения важной информации",
-      "image": "",
+      "image": "catalog/images/база_данных.jpg",
       "category": 5,
       "price": "200000.00",
       "created_at": "2024-05-23",
