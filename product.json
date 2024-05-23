@@ -1,0 +1,67 @@
+[
+  {
+    "model": "catalog.product",
+    "pk": 1,
+    "fields": {
+      "name": "Сайт",
+      "description": "Сайты на любой вкус",
+      "image": "",
+      "category": 1,
+      "price": "50000.00",
+      "created_at": "2024-05-23",
+      "updated_at": "2024-05-23"
+    }
+  },
+  {
+    "model": "catalog.product",
+    "pk": 2,
+    "fields": {
+      "name": "Бот",
+      "description": "Боты под Ваши нужды",
+      "image": "",
+      "category": 2,
+      "price": "55000.00",
+      "created_at": "2024-05-23",
+      "updated_at": "2024-05-23"
+    }
+  },
+  {
+    "model": "catalog.product",
+    "pk": 3,
+    "fields": {
+      "name": "Программа",
+      "description": "Программы любой сложности",
+      "image": "",
+      "category": 3,
+      "price": "150000.00",
+      "created_at": "2024-05-23",
+      "updated_at": "2024-05-23"
+    }
+  },
+  {
+    "model": "catalog.product",
+    "pk": 4,
+    "fields": {
+      "name": "Парсер",
+      "description": "Парсеры для автоматического сбора данных",
+      "image": "",
+      "category": 4,
+      "price": "100000.00",
+      "created_at": "2024-05-23",
+      "updated_at": "2024-05-23"
+    }
+  },
+  {
+    "model": "catalog.product",
+    "pk": 5,
+    "fields": {
+      "name": "База данных",
+      "description": "Базы данных для хранения важной информации",
+      "image": "",
+      "category": 5,
+      "price": "200000.00",
+      "created_at": "2024-05-23",
+      "updated_at": "2024-05-23"
+    }
+  }
+]
