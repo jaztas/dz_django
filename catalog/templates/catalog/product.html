@@ -8,7 +8,7 @@
             <div class="card mb-4 box-shadow">
                 <div class="card-body">
                     <h1 class="card-title pricing-card-title">{{ object_list.name }}</h1>
-                    <img class="card-img-top" src="{{ object.images | media_filter }}">
+                    <img class="card-img-top" src="{{ object.image | media_filter }}">
                     <ul class="list-unstyled mt-3 mb-4 text-start m-3">
                         <li>{{ object_list.price }}</li>
                         <li>{{ object_list.category.name }}</li>
